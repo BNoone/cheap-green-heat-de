@@ -4,7 +4,7 @@
 
 > This project quantifies the opportunity. Smart energy managers capture it.
 
-📊 **Live dashboard:** [Data Studio report](DASHBOARD_LINK) (updated daily)
+📊 **Live dashboard:** [Data Studio report](https://datastudio.google.com/reporting/d492828f-0405-4b50-ba8b-cdd5af2278fb) (updated daily)
 
 ---
 
