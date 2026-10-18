@@ -113,7 +113,7 @@ sql/
 
 ## Possible next steps
 
-These were deliberately left out to ship within the 14-day scope:
+These were deliberately left out to ship within the short time delivery scope:
 
 - **Savings scenario:** one fixed household, evenly running vs shifting heat pump, euros per winter.
 - **Seasonal gap:** midday vs evening heat cost per month, to show how the saving changes with the seasons.
