@@ -10,7 +10,9 @@
 
 ## The business question
 
-A heat pump turns electricity into heat. How much heat it delivers per kWh of power (its **COP**) drops when it is cold outside. So a household on a dynamic tariff does not really buy power, it buys **heat**:
+A heat pump turns electricity into heat. 
+How much heat it delivers per kWh of power (its **COP**) drops when it is cold outside. 
+So that a household on a dynamic tariff does not buy cheap power, but cheap **heat**:
 
 ```
 cost of heat (ct/kWh) = electricity price (ct/kWh) ÷ COP
