@@ -6,6 +6,8 @@
 
 📊 **Live dashboard:** [Data Studio report](https://datastudio.google.com/reporting/d492828f-0405-4b50-ba8b-cdd5af2278fb) (updated daily)
 
+<img width="1147" height="657" alt="image" src="https://github.com/user-attachments/assets/77da57a8-d77d-4470-af52-16e678f9c576" />
+
 ---
 
 ## The business question
